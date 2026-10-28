@@ -1,0 +1,10 @@
+{
+  "name": "nebenkostenpro",
+  "version": "1.0.1",
+  "description": "German utility costs (Nebenkosten): city costs, property tax, housing benefit, deadlines, bill check and creation links.",
+  "mcpServers": {
+    "nebenkostenpro": {
+      "httpUrl": "https://nebenkostenpro.de/mcp"
+    }
+  }
+}

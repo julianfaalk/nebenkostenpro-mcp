@@ -1,0 +1,1 @@
+{"mcpServers": {"nebenkostenpro": {"command": "npx", "args": ["-y", "mcp-remote", "https://nebenkostenpro.de/mcp"]}}}
