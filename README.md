@@ -80,7 +80,7 @@ gemini extensions install https://github.com/julianfaalk/nebenkostenpro-mcp
 npx -y mcp-remote https://nebenkostenpro.de/mcp
 ```
 
-Ready-made config files are in [`configs/`](configs/).
+Ready-made config files are in [`configs/`](configs/). Test prompts with expected answers: [`EVALUATION.md`](EVALUATION.md).
 
 ## Limits
 
