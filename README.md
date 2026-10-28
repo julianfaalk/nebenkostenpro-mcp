@@ -62,6 +62,12 @@ claude mcp add --transport http nebenkostenpro https://nebenkostenpro.de/mcp
 {"servers": {"nebenkostenpro": {"type": "http", "url": "https://nebenkostenpro.de/mcp"}}}
 ```
 
+**Cline** (MCP Servers → Configure → `cline_mcp_settings.json`):
+
+```json
+{"mcpServers": {"nebenkostenpro": {"type": "streamableHttp", "url": "https://nebenkostenpro.de/mcp", "disabled": false}}}
+```
+
 **Gemini CLI:**
 
 ```bash
